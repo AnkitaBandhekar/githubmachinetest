@@ -1,0 +1,5 @@
+This is machine test
+dot net developer
+asp.net
+desktop app
+web app
